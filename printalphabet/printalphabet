@@ -1,6 +1,8 @@
 package main 
+
 import "fmt"
+
 func main()  {
-	alpha := "abcdefghijklmnopqrstuvxyz\n"
-	fmt.Println(alpha)
+
+	fmt.println("abcdefghijklmnopqrstuvwxyz\n")
 }
