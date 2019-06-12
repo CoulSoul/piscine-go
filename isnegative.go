@@ -3,8 +3,7 @@ package main
 
 import "fmt"
 
-func IsNegative() {
-	var nb int = 4
+func IsNegative(nb int) {
 
 	if nb < 0 {
 		fmt.Println("T")
