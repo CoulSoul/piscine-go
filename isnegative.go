@@ -3,7 +3,7 @@ package main
 
 import "github.com/01-edu/z01"
 
-func IsNegative() {
+func IsNegative(nb int) {
 	var nb int = 4
 
 	if nb < 0 {
