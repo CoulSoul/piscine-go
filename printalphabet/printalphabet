@@ -2,5 +2,5 @@ package main
 import "fmt"
 func main()  {
 	alpha := "abcdefghijklmnopqrstuvxyz"
-	fmt.println(alpha)
+	fmt.Println(alpha)
 }
