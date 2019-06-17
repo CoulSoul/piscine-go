@@ -4,7 +4,7 @@ package piscine
 import "fmt"
 
 
-func main(n *int)  {
+func PointOne(n *int)  {
 	
 	*n = 1
 
